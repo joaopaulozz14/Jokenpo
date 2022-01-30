@@ -1,5 +1,14 @@
 const prompt = require("prompt-sync")();
 
+
+
+
+
+
+
+
+
+
 let escolhaUsuario = [];
 let escolha;
 let numeroAleatorio;
